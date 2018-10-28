@@ -23,7 +23,7 @@ with the ships computers from within by learning one of the most powerful tools 
 * Pixel Art
 * Story telling
 * Object descriptions
-* Puzzel design
+* Puzzle design
 * Music and Sound/FX
 * Mini-games
 * Engine development
