@@ -1,16 +1,16 @@
 ![CLH: THE GAME](https://user-images.githubusercontent.com/3926730/47192485-95774700-d31b-11e8-873c-23d24778056f.png)
 
 # Command Line Heroes: The Game
-Command Line Heroes: The Game is a brand new open source an adventure game that was announced on Season 2 -
+Command Line Heroes: The Game is an open source adventure game that was announced in Season 2
 [Episode 1](https://www.redhat.com/en/command-line-heroes/season-2/press-start) of the Command Line Heroes
-[Podcast](https://www.redhat.com/en/command-line-heroes). The game will be created using our own
-[Hero Engine](https://github.com/CommandLineHeroes/hero-engine) which we are working on right now.
+[Podcast](https://www.redhat.com/en/command-line-heroes). We'll create the game using our own
+[Hero Engine](https://github.com/CommandLineHeroes/hero-engine), which we're building right now.
 
 # Game Concept
-A classic 2D point and click adventure game,  that uses an integrated command line as a core element of the game play.
+Command Line Heroes: The Game will be a 2D point and click adventure game that uses an integrated command line as a core element of the gameplay.
 
 # Story synopsis
-The story is about a manned mission to Mars to inhabit the first permanent human outpost on the Red Planet in the year 2040. Many precursor missions to mars have been made, and robots have completed building a habitat on the surface of Mars. Now the time has come to send the first human crew to live on the surface of Mars. A mission that will be fraught with peril. You are a young JPL intern specializing in AI and machine learning for the robotics on the Mars missions. You are experimenting with new technology that will allow the transfer of human consciousness into a robot to control it remotely over long distances. However something goes wrong and your consciousness is trapped on the ship after take-off! Now you must help the crew survive and make the mission successful resolving crises. Now you must learn to interface with the ships computers from within by learning one of the most powerful tools available The Command Line.
+The story begins in 2040 with a manned mission to Mars to establish the first permanent human outpost. Over many precursor missions, NASA sent robots and materials to build a habitat on the surface of Mars. Now, the time has come to send the first human crew to live on the red planet. You are an intern in NASA's Jet Propulsion Labs specializing in AI and machine learning. You are experimenting with new technology that will transfer of human consciousness into a robot to control it over long distances. However, something goes terribly wrong and your consciousness is trapped on the ship after take-off. You must help the crew survive and thrive in humankind's first extraterrestrial settlement. Interface with the ship's computers from within by learning one of the most powerful tools available: The Command Line.
 
 # Help needed with
 * Pixel Art
@@ -18,7 +18,7 @@ The story is about a manned mission to Mars to inhabit the first permanent human
 * Object descriptions
 * Puzzle design
 * Music and Sound/FX
-* Mini-games
+* Minigames
 * Engine development
 * Documentation
 * Community help
