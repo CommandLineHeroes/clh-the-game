@@ -1,4 +1,8 @@
-![CLH: THE GAME](https://user-images.githubusercontent.com/3926730/47192485-95774700-d31b-11e8-873c-23d24778056f.png)
+# Arcade Game Focus
+
+In addition to the Hero Engine and adventure game, we are also making a fast paced arcade game called "CLH Bash".  The core devs are focusing our time on this game right now so if you're interested in contributing head over to:
+
+**[Command Line Heros: Bash!](https://github.com/CommandLineHeroes/clh-bash)**
 
 # Command Line Heroes: The Game
 Command Line Heroes: The Game is an open source adventure game that was announced in Season 2
